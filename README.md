@@ -1,6 +1,6 @@
 # Description of Project "CommCoder" - Idea & Concept
 
-<img src="assets/commcoder-logo.png" alt="Projekt Logo 'CommCoder'" align="right" width="40%">
+<img src="assets/commcoder-project-logo.png" alt="Projekt Logo 'CommCoder'" align="right" width="40%">
 
 ## Introduction 
 
